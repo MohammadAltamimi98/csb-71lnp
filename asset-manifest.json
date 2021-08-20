@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mohammadaltamimi98.github.io/csb-71lnp/static/css/main.5ab7590d.chunk.css",
+    "main.js": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/main.6e8c29b0.chunk.js",
+    "main.js.map": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/main.6e8c29b0.chunk.js.map",
+    "runtime-main.js": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/runtime-main.78676648.js",
+    "runtime-main.js.map": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/runtime-main.78676648.js.map",
+    "static/js/2.4155993f.chunk.js": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/2.4155993f.chunk.js",
+    "static/js/2.4155993f.chunk.js.map": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/2.4155993f.chunk.js.map",
+    "index.html": "https://mohammadaltamimi98.github.io/csb-71lnp/index.html",
+    "static/css/main.5ab7590d.chunk.css.map": "https://mohammadaltamimi98.github.io/csb-71lnp/static/css/main.5ab7590d.chunk.css.map",
+    "static/js/2.4155993f.chunk.js.LICENSE.txt": "https://mohammadaltamimi98.github.io/csb-71lnp/static/js/2.4155993f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78676648.js",
+    "static/js/2.4155993f.chunk.js",
+    "static/css/main.5ab7590d.chunk.css",
+    "static/js/main.6e8c29b0.chunk.js"
+  ]
+}
